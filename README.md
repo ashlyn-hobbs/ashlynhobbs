@@ -60,6 +60,4 @@ I am a CS and Chemistry student at Drake University <img src="https://media.giph
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashlyn-hobbs&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashlyn-hobbs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
