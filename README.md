@@ -62,10 +62,4 @@ I am a CS and Chemistry student at Drake University <img src="https://media.giph
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashlyn-hobbs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-</div>
 </div>
