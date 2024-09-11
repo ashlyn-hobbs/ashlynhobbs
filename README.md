@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW8xamp1cjdib3lhOHU5M2tncmZwcmR2dmtrNW5kYWx6OTdwNXlobCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
 <div id="badges">
-  <a href="www.linkedin.com/in/ashlyn-hobbs-618718256">
+  <a href="[www.linkedin.com/in/ashlyn-hobbs-618718256](https://www.linkedin.com/in/ashlyn-hobbs-618718256)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
