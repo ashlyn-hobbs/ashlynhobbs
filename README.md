@@ -28,7 +28,7 @@
 I am a CS and Chemistry student at Drake University from Texas.
 - :telescope: I’ve worked in IT and am familiar with frontend and backend development.
 
-- :seedling: Aspiring Chemical Engineer.
+- :seedling: Aspiring Mechanical Engineer.
 
 - :zap: In my free time, I work on personal app projects and edit videos.
 
