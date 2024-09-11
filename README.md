@@ -25,7 +25,7 @@
 <div id="aboutme" align="left">
 
 ### :woman_technologist: About Me :
-I am a CS and Chemistry student at Drake University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Texas.
+I am a CS and Chemistry student at Drake University from Texas.
 - :telescope: I’ve worked in IT and am familiar with frontend and backend development.
 
 - :seedling: Aspiring Chemical Engineer.
